@@ -283,7 +283,7 @@ def _resolve_downloaded_file_path(res: Dict[str, Any], ydl: YoutubeDL, out_dir: 
 # ------------------------- Main flow -------------------------
 
 def main():
-    print("\n=== YouTube Chapter Slicer ===\n")
+    print("\n=== Youtube DL Splitter v1.5 ===\n")
 
     url = prompt_nonempty("Paste a YouTube video URL: ")
 
